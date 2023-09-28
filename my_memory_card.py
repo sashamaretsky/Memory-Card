@@ -153,6 +153,7 @@ questions_list = list()
 questions_list.append(Question('Государственный язык Бразилии', 'португальский', 'испанский', 'бразильский', 'итальянский'))
 questions_list.append(Question('Какого цвета нет на флаге России?', 'зелёный', 'белый', 'красный', 'синий'))
 questions_list.append(Question('Какой национальности не существует?', 'смурфы', 'энцы', 'алеуты', 'буряты'))
+questions_list.append(Question('Какого числа День Летнего Солнцестояния?', '21 июня', '1 июня', '1 сентября', '31 декабря'))
 list_of_numbers = list()
 
 next_question()
